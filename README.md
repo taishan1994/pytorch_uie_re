@@ -69,7 +69,7 @@ colorama
 	    --max_model_num 1
 	```
 
-	训练完成后，会在同目录下生成checkpoint/model_best/。
+	训练完成后，会在同目录下生成checkpoint/dgre/model_best/。
 
 - 5、进行验证：
 
